@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'ota.synchronization'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':ota.sync.notifier'),
+            project(':ota.sync.user'),
+            project(':ota.sync.user.default'),
+            project(':ota.sync.vehicle'),
+            project(':ota.sync.vehicle.default')
+    testCompile lib.junit
+}

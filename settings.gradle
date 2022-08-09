@@ -1,0 +1,12 @@
+rootProject.name = 'ota.sync'
+include 'ota.sync.user'
+include 'ota.sync.database'
+include 'ota.sync.serialization'
+include 'ota.sync.command'
+include 'ota.sync.database.default'
+include 'ota.sync.vehicle'
+include 'ota.sync.gui'
+include 'ota.sync.notifier'
+include 'ota.sync.user.default'
+include 'ota.sync.vehicle.default'
+

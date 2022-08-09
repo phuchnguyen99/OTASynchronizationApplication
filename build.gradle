@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+}
+
+group 'ota.synchronization'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+jar{
+    from('src/main/resources'){
+        include '**/'
+    }
+}
+ext.lib = [
+    junit: lib('junit', 'junit', '4.12'),
+    hamcrest: lib('org.hamcrest', 'hamcrest-core', '1.3'),
+    jackson_core: lib('com.fasterxml.jackson.core', 'jackson-core', '2.10.3'),
+    jackson_databind: lib('com.fasterxml.jackson.core', 'jackson-databind', '2.10.3'),
+    io_common : lib('commons-io', 'commons-io', '2.11.0'),
+    sqlite_jdbc : lib('org.xerial', 'sqlite-jdbc', '3.8.10.2'),
+    jmock: lib('org.jmock', 'jmock', '2.6.0'),
+    jmock_junit: lib('org.jmock', 'jmock-junit4', '2.6.0'),
+    commons_lang: lib('commons-lang', 'commons-lang', '2.6')
+]
+static def lib(group, name, version){
+    [group: group, name: name, version: version]
+}

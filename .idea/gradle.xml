@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ota.sync.command" />
+            <option value="$PROJECT_DIR$/ota.sync.database" />
+            <option value="$PROJECT_DIR$/ota.sync.database.default" />
+            <option value="$PROJECT_DIR$/ota.sync.gui" />
+            <option value="$PROJECT_DIR$/ota.sync.notifier" />
+            <option value="$PROJECT_DIR$/ota.sync.serialization" />
+            <option value="$PROJECT_DIR$/ota.sync.user" />
+            <option value="$PROJECT_DIR$/ota.sync.user.default" />
+            <option value="$PROJECT_DIR$/ota.sync.vehicle" />
+            <option value="$PROJECT_DIR$/ota.sync.vehicle.default" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

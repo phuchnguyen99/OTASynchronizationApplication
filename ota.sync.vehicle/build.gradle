@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'ota.synchronization'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':ota.sync.serialization'),
+            project(':ota.sync.database'),
+            lib.commons_lang
+    testCompile lib.junit
+                lib.hamcrest
+}

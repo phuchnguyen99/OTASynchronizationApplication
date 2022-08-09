@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ota.sync.database_main" target="1.8" />
+      <module name="ota.sync.database_test" target="1.8" />
+      <module name="ota.sync.gui_main" target="1.8" />
+      <module name="ota.sync.gui_test" target="1.8" />
+      <module name="ota.sync.notifier_main" target="1.8" />
+      <module name="ota.sync.notifier_test" target="1.8" />
+      <module name="ota.sync.serialization_main" target="1.8" />
+      <module name="ota.sync.serialization_test" target="1.8" />
+      <module name="ota.sync.user.default_main" target="1.8" />
+      <module name="ota.sync.user.default_test" target="1.8" />
+      <module name="ota.sync.user_main" target="1.8" />
+      <module name="ota.sync.user_test" target="1.8" />
+      <module name="ota.sync.vehicle.default_main" target="1.8" />
+      <module name="ota.sync.vehicle.default_test" target="1.8" />
+      <module name="ota.sync.vehicle_main" target="1.8" />
+      <module name="ota.sync.vehicle_test" target="1.8" />
+      <module name="ota.sync_main" target="1.8" />
+      <module name="ota.sync_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

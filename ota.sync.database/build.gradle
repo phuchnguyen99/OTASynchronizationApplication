@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+group 'ota.synchronization'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':ota.sync.user'),
+            project(':ota.sync.vehicle'),
+            lib.io_common,
+            lib.sqlite_jdbc
+    testCompile lib.junit,
+                lib.jmock,
+                lib.jmock_junit
+}
+

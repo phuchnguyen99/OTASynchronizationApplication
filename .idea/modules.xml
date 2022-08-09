@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.command/ota.sync.command.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.command/ota.sync.command.iml" group="ota.sync.command" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database.iml" group="ota.sync.database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.database.default/ota.sync.database.default.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.database.default/ota.sync.database.default.iml" group="ota.sync.database.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database_main.iml" group="ota.sync.database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.database/ota.sync.database_test.iml" group="ota.sync.database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui.iml" group="ota.sync.gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui_main.iml" group="ota.sync.gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.gui/ota.sync.gui_test.iml" group="ota.sync.gui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier.iml" group="ota.sync.notifier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier_main.iml" group="ota.sync.notifier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.notifier/ota.sync.notifier_test.iml" group="ota.sync.notifier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization.iml" group="ota.sync.serialization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization_main.iml" group="ota.sync.serialization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.serialization/ota.sync.serialization_test.iml" group="ota.sync.serialization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user.iml" group="ota.sync.user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default.iml" group="ota.sync.user.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default_main.iml" group="ota.sync.user.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user.default/ota.sync.user.default_test.iml" group="ota.sync.user.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user_main.iml" group="ota.sync.user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.user/ota.sync.user_test.iml" group="ota.sync.user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle.iml" group="ota.sync.vehicle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default.iml" group="ota.sync.vehicle.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default/ota.sync.vehicle.default_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default/ota.sync.vehicle.default_main.iml" group="ota.sync.vehicle.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default/ota.sync.vehicle.default_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle.default/ota.sync.vehicle.default_test.iml" group="ota.sync.vehicle.default" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle_main.iml" group="ota.sync.vehicle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync.vehicle/ota.sync.vehicle_test.iml" group="ota.sync.vehicle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync_main.iml" group="ota.sync" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ota.sync_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ota.sync_test.iml" group="ota.sync" />
+    </modules>
+  </component>
+</project>
